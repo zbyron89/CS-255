@@ -1,2 +1,12 @@
 # CS-255
-DriverPass projects and system design portfolio
+DriverPass projects and system design
+
+DriverPass was a company looking to offer students a better way to prepare for their driving tests. They wanted a system where customers could purchase training packages, complete online practice tests, and reserve driving lessons without having to contact the business for everything. The project involved figuring out what DriverPass needed from the information provided in their interview and then creating documents that explained those requirements and how the system could be designed.
+
+One part of my work that I was happy with was the business requirements document. The interview included quite a few details about how DriverPass wanted to operate, and I had to figure out how to separate those details into actual system requirements. I spent time making sure the different user roles made sense and that the features matched what the client was asking for. I think this was one of the stronger parts of my project because I had a better understanding of what needed to be built before moving into the design.
+
+The part I would change is how I approached creating the UML diagrams. I spent more time than I expected adjusting the diagrams and trying to get everything connected correctly. Looking back, I think I could have saved myself some trouble by writing out the steps of each process before trying to arrange them visually. I would also compare the finished diagrams against the requirements document to make sure nothing important was left out.
+
+Something I learned while working on DriverPass was that the client doesn't always explain their needs in the same way a developer would describe them. I had to take what was discussed in the interview and figure out how those requests would actually work in a system. For example, allowing customers to schedule driving lessons sounds simple at first, but the system also needs to consider available appointments, instructors, and existing reservations. If those details aren't considered during the design, the finished system might not work the way the customer expected.
+
+I usually find it easier to work through a problem once I understand what the expected result should be. This project showed me why spending time on requirements before designing anything is worth the effort. In the future, I would start by identifying what each user needs to accomplish and then map out how the system should respond. I would also check my work against the original requirements more often instead of waiting until the design is finished to review everything.
